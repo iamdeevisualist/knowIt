@@ -1,0 +1,6 @@
+{
+  "name": "Age Calculator",
+  "description": "A sleek, modern Age Calculator web application styled with a vibrant red and white blend. It provides clear age breakdown by years, months, and days, detailed longevity stats, and a count-down to your next birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
