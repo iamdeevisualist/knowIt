@@ -1371,9 +1371,10 @@ export default function App() {
             </div>
           </div>
 
-          <div className="text-center sm:text-left text-xs text-zinc-500 flex flex-col gap-1 sm:max-w-md">
+          <div className="text-center sm:text-left text-xs text-zinc-500 flex flex-col gap-1.5 sm:max-w-md">
             <span>&copy; {new Date().getFullYear()} AgeCalc. All rights reserved globally.</span>
-            <span>Est. planetary cycles computed strictly compliant to standard synchronized Gregorian formats.</span>
+            <span className="text-zinc-400">Created by <span className="text-zinc-200 font-semibold hover:text-[#D32F2F] transition-colors">deeVisualist</span></span>
+            <span className="text-[11px] text-zinc-650 text-zinc-600">Est. planetary cycles computed strictly compliant to standard synchronized Gregorian formats.</span>
           </div>
 
           <div className="flex items-center gap-4 text-xs font-semibold text-zinc-400">
